@@ -1,16 +1,11 @@
-<p align="left">
-   <img src="https://shared.lyoha.info/pictures/easyroute/cover_thin_narrow.png" alt="Easyroute" width="350px">
-</p>
-
-**Framework-agnostic library for routing JavaScript single-page
-applications**
+Vael's fork of Easyroute. Supports Svelte 4 and probably future versions.
 
 ### Bindings
 |  Svelte&nbsp;3 | [GitHub](https://github.com/easyroute-router/easyroute/tree/main/packages/svelte), [NPM](https://www.npmjs.com/package/@easyroute/svelte) |
 |---|---|
 | React  | [GitHub](https://github.com/easyroute-router/easyroute/tree/main/packages/react), [NPM](https://www.npmjs.com/package/@easyroute/react) |
 
-TL;DR Features:
+Features:
 * Config-based router (just like Vue Router)
 * Dynamic route matching
 * Nested routes
