@@ -42,5 +42,6 @@
   ],
   "simple-git-hooks": {
     "pre-commit": "npm run lintstaged"
-  }
+  },
+  "version": "0.0.1"
 }
