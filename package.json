@@ -1,6 +1,6 @@
 {
   "name": "@vaelvictus/easyroute",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "devDependencies": {
     "@babel/polyfill": "^7.12.1",
     "@babel/preset-env": "^7.10.4",
