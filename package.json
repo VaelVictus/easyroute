@@ -1,6 +1,5 @@
 {
   "name": "easyroute",
-  "private": true,
   "devDependencies": {
     "@babel/polyfill": "^7.12.1",
     "@babel/preset-env": "^7.10.4",
